@@ -1,0 +1,11 @@
+Mulai
+↓
+Masukkan bilangan bulat
+↓
+Bilangan dibagi 2 dengan operasi sisa bagi
+↓
+Apakah hasilnya 0?
+├─ Ya → Bilangan genap
+├─ Tidak → Bilangan ganjil
+↓
+Selesai
